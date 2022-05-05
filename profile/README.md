@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### [Discussion](https://github.com/findcodehere/start/discussions)
+### [Go to Discussion](https://github.com/findcodehere/start/discussions)
 
 
 **Here are some ideas to get you started:**
