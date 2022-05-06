@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-### [Go to Discussion](https://github.com/findcodehere/start/discussions)
-
 
 **Here are some ideas to get you started:**
 
